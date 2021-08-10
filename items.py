@@ -85,3 +85,15 @@ class Adelanto(scrapy.Item):
     title = scrapy.Field()
     timing = scrapy.Field()
     data = scrapy.Field()
+
+
+class Kabum(scrapy.Item):
+    title = scrapy.Field()
+    price = scrapy.Field()
+    new_price = scrapy.Field()
+    old_price = scrapy.Field()
+    description = scrapy.Field()
+    img = scrapy.Field()
+    color_name = scrapy.Field()
+    aggregateRating = scrapy.Field()
+    item_id = scrapy.Field()
