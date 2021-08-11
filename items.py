@@ -97,3 +97,6 @@ class Kabum(scrapy.Item):
     color_name = scrapy.Field()
     aggregateRating = scrapy.Field()
     item_id = scrapy.Field()
+    breadcrumb = scrapy.Field()
+    rating_Value = scrapy.Field()
+    total_review = scrapy.Field()
