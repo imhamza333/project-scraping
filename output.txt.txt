@@ -1,0 +1,210 @@
+{'breadcrumb': 'Hardware/Processadores/AMD/Ryzen',
+ 'description': 'Imbatível no jogo - Obtenha o desempenho de jogos de alta '
+                'velocidade do melhor processador de desktop do mundo.\n'
+                '\n'
+                'Tecnologia AMD StoreMI - É um jeito rápido e fácil de '
+                'expandir e acelerar o armazenamento nos PCs com um '
+                'processador AMD Ryzen.\n'
+                '\n'
+                'Utilitário AMD Ryzen Master - O utilitário de overclocking '
+                'simples e potente para os processadores AMD Ryzen.\n'
+                '\n'
+                'AMD Ryzen VR-Ready Premium - Para usuários que querem uma '
+                'experiência de realidade virtual premium, a AMD oferece os '
+                'processadores de alto desempenho Ryzen VR-Ready Premium.',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/129451/processador-amd-ryzen-9-5950x-cache-72mb-3-4ghz-4-9ghz-max-turbo-am4-100-100000065box_1602603
+581_g.jpg',
+ 'item_id': '129451',
+ 'new_price': 'R$\xa01.739,90',
+ 'old_price': 2046.94,
+ 'rating_Value': '5',
+ 'title': 'Processador AMD Ryzen 5 5600X, Cache 35MB, 3.7GHz (4.6GHz Max '
+          'Turbo), AM4 - 100-100000065BOX',
+ 'total_review': '133'}
+{'breadcrumb': 'Hardware/Memória RAM/DDR 4/2666MHz',
+ 'description': '<h2>Mem&oacute;ria para Desktop Crucial Ballistix ideal para '
+                'jogos com 8GB, DDR4 e 2666MHz&nbsp;</h2>\n'
+                '<p>&nbsp;</p>\n'
+                '<h3>Design moderno&nbsp;</h3>\n'
+                '<p>Difusor de calor em alum&iacute;nio anodizado '
+                'inclu&iacute;do para gerenciamento t&eacute;rmico em um '
+                'espa&ccedil;o compacto tamb&eacute;m est&aacute; '
+                'dispon&iacute;vel em v&aacute;rias cores,&nbsp; preto, branco '
+                'ou vermelho, escolha a que combine melhor com o seu '
+                'setup.&nbsp;</p>\n'
+                '<p>&nbsp;</p>\n'
+                '<h3>Redefina o desempenho do seu jogo&nbsp;</h3>\n'
+                '<p>O suporte XMP 2.0 e os perfis predefinidos permitem '
+                'executar overclock para extrair o m&aacute;ximo de '
+                'desempenho.&nbsp;</p>\n'
+                '<p>Selecione o perfil padr&atilde;o do Conselho Conjunto para '
+                'Engenharia de Dispositivos de El&eacute;trons (JEDEC) para um '
+                'desempenho padr&atilde;o.&nbsp;</p>\n'
+                '<p>&nbsp;</p>\n'
+                '<h3>Compatibilidade testada&nbsp;</h3>\n'
+                '<p>Trabalhamos com AMD e Intel, al&eacute;m de projetistas de '
+                'placa-m&atilde;e e montadores de sistema para garantir que '
+                'nossa mem&oacute;ria seja otimizada para uma alta '
+                'performance.&nbsp;</p>\n'
+                '<p>&nbsp;</p>\n'
+                '<h3>Pe&ccedil;as de precis&atilde;o&nbsp;</h3>\n'
+                '<p>Somos uma fabricante de componentes de mem&oacute;ria, mas '
+                'fazemos muito mais do que pe&ccedil;as de compartimento, '
+                'otimizamos o desempenho ao n&iacute;vel da matriz.&nbsp;</p>\n'
+                '<p>&nbsp;</p>\n'
+                '<p>Garanta j&aacute; a sua <strong>Mem&oacute;ria Crucial '
+                'Ballistix 8GB 2666MHz</strong> no '
+                '<strong>KaBuM!</strong>&nbsp;</p>',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/135291/memoria-ram-crucial-ballistix-8gb-ddr4-2666-mhz-cl16-udimm-preto-bl8g26c16u4b_1609871709_g.jp
+g',
+ 'item_id': '135291',
+ 'new_price': 'R$\xa0269,90',
+ 'old_price': 317.53,
+ 'rating_Value': '5',
+ 'title': 'Memória RAM Crucial Ballistix 8GB DDR4 2666 Mhz, CL16, UDIMM, Preto '
+          '- BL8G26C16U4B',
+ 'total_review': '100'}
+
+{'breadcrumb': 'Computadores/Tablets/Samsung',
+ 'description': 'Tablet Samsung Galaxy Tab S6 Lite, Bluetooth, Android 10.0, '
+                '64GB, 8MP, Tela de 10.4´, Cinza - SM-P615NZAVZTO',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/114929/tablet-samsung-galaxy-tab-s6-lite-bluetooth-android-10-0-64gb-8mp-tela-de-10-4-cinza-sm-p615_
+1594320300_g.jpg',
+ 'item_id': '114929',
+ 'new_price': 'R$\xa02.218,00',
+ 'old_price': 2334.74,
+ 'rating_Value': '5',
+ 'title': 'Tablet Samsung Galaxy Tab S6 Lite, 4G, Bluetooth, Android 10.0, '
+          '64GB, 8MP, Tela de 10.4´, Cinza - SM-P615NZAVZTO',
+ 'total_review': '39'}
+
+{'breadcrumb': 'Eletrodomésticos/Lava e Seca, Máquina de Lavar e '
+               'Tanquinho/Panasonic',
+ 'description': 'A Lavadora Panasonic 12 KG Titânio conta com o sistema de '
+                'lavagem Ciclone (não necessita de agitador), onde possui um '
+                'maior espaço interno e remove as manchas mais difíceis, com '
+                'desempenho 20 maior no programa Vanish. Economize água em '
+                'cada lavagem! A máquina de lavar Panasonic tem o menor '
+                'consumo de água quando comparada com seus concorrentes de '
+                'mesma capacidade, segundo teste de consumo e eficiência '
+                'energética. É melhor para você e para o planeta!',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/sync_mirakl/162418/Lavadora-de-Roupas-Panasonic-12Kg-220V-Tit-nio-NA-F120B1T_1621609147_g.jpg',
+ 'item_id': '162418',
+ 'new_price': 'R$\xa01.819,90',
+ 'old_price': 1819.9,
+ 'rating_Value': '0',
+ 'title': 'Lavadora de Roupas Panasonic, 12Kg, 220V, Titânio - NA-F120B1T',
+ 'total_review': '0'}
+
+{'breadcrumb': 'Projetores/Projetor/Epson',
+ 'description': 'Faç;a apresentaç;õ;es impactantes com o projetor PowerLite '
+                'X39 - que gera cores extremamente precisas e até; 3 vezes '
+                'mais brilhantes&sup1; do que os projetores DLP de 1 chip da '
+                'concorrê;ncia. Confiá;vel e com controles amigá;veis, possui '
+                '3500 lumens de brilho em cores, 3500 lumens de brilho em '
+                'branco, e resoluç;&atilde;o XGA. Sua l&acirc;mpada de longa '
+                'duraç;&atilde;o, que suporta até; 12.000 horas no Modo '
+                'ECO&sup3;, diminui os custos de manutenç;&atilde;o.</p>',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/94664/94664_1517255506_index_g.jpg',
+ 'item_id': '94664',
+ 'new_price': 'R$\xa03.999,00',
+ 'old_price': 4443.33,
+ 'rating_Value': '5',
+ 'title': 'Projetor Epson 3500 Lumens XGA PowerLite X39',
+ 'total_review': '15'}
+
+{'breadcrumb': 'Presentes/Brinquedos e Jogos',
+ 'description': 'O jogo que tem como objetivo ser uma divertida brincadeira '
+                'entre jogadores de diferentes idades. Através de perguntas, '
+                'respostas, desafios e gincanas, os jogadores vão conhecer um '
+                'pouco mais do universo das outras gerações. No mundo corrido '
+                'e ultra conectado em que vivemos, Batalha das Gerações '
+                'proporciona momentos únicos de convivência familiar. O que é '
+                'Kpop? O que significa LP? O que é flopar? Essas e outras '
+                'dúvidas serão resolvidas serão resolvidas neste jogo pelas '
+                'diferentes gerações. São 360 cartas com perguntas, respostas '
+                'e desafios.',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/sync_mirakl/168655/Jogo-Batalha-das-Gera-es_1624044194_g.jpg',
+ 'item_id': '168655',
+ 'new_price': 'R$\xa099,99',
+ 'old_price': 99.99,
+ 'rating_Value': '0',
+ 'title': 'Jogo Batalha das Gerações',
+ 'total_review': '0'}
+
+{'breadcrumb': 'Automotivo/Pneus/15´',
+ 'description': 'A Michelin é uma das maiores empresas do segmento de pneus, '
+                'está entre as líderes do mercado mundial do setor '
+                'automobilístico. Desenvolve pneus e serviços inovadores para '
+                'as mais diversas áreas de atuação, como carros, motocicletas, '
+                'máquinas, aviões e até veículos de cargas. Michelin XM2+ mais '
+                'segurança na frenagem com a durabilidade que você já conhece. '
+                'Novo composto de borracha com 100% de sílica na banda de '
+                'rodagem que melhora a segurança e durabilidade no pneu usado. '
+                'O pneu tem uma área de contato maior com o solo, resultando '
+                'no ganho de aderência.',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/sync_mirakl/163656/Pneu-175-70r14-Michelin-Energy-Xm2-88t_1622136205_g.jpg',
+ 'item_id': '163656',
+ 'new_price': 'R$\xa0521,90',
+ 'old_price': 521.9,
+ 'rating_Value': '0',
+ 'title': 'Pneu 175/70r14 Michelin Energy Xm2+ 88t',
+ 'total_review': '0'}
+
+{'breadcrumb': 'Beleza & Saúde/Aparador de pelos/Mondial',
+ 'description': 'Aparador de Pelos Mondial Super Groom 10, Bivolt - BG-03.',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/111240/aparador-de-pelos-mondial-super-groom-10-bivolt-bg-03_1582914124_g.jpg',
+ 'item_id': '111240',
+ 'new_price': 'R$\xa0108,90',
+ 'old_price': 114.63,
+ 'rating_Value': '5',
+ 'title': 'Aparador de Pelos Mondial Super Groom 10, Bivolt - BG-03',
+ 'total_review': '32'}
+{'breadcrumb': 'Gamer/Xbox Series/Acessórios/Controles',
+ 'description': '<p>Experimente o design modernizado do Xbox Wireless '
+                'Controller, com superf&iacute;cies esculpidas e geometria '
+                'refinada para maior conforto durante o jogo. Fique no alvo '
+                'com o grip texturizado e um direcional h&iacute;brido. '
+                'Capture e compartilhe conte&uacute;do perfeitamente com um '
+                'bot&atilde;o Compartilhar dedicado. Conecte-se, jogue e '
+                'alterne rapidamente entre dispositivos, incluindo Xbox Series '
+                'X|S, Xbox One, PC com Windows 10, iOS e Android.</p>',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/128647/controle-microsoft-xbox-sem-fio-preto-qat-00007_1601326879_g.jpg',
+ 'item_id': '128647',
+ 'new_price': 'R$\xa0395,91',
+ 'old_price': 439.9,
+ 'rating_Value': '5',
+ 'title': 'Controle Sem Fio Xbox Carbon Black',
+ 'total_review': '141'}
+
+{'breadcrumb': 'Gamer/Playstation 4/Acessórios/Volante',
+ 'description': 'Desenhado de forma impecável para uma experiência perfeita ao '
+                'volante, o G29 eleva os jogos de corridas mais recentes ao '
+                'nível mais alto. Apresenta Force Feedback com motor duplo e '
+                'embreagem helicoidal, permitindo uma direção suave e '
+                'silenciosa. O câmbio de aço inoxidável e os LEDs indicadores '
+                'de RPM/marcha ajudam a fazer trocas de marcha precisas e '
+                'fluidas sem tirar os olhos da pista. O pedal separado fornece '
+                'controle reativo natural com um pedal de freio não linear. O '
+                'G29 foi projetado para proporcionar conforto e durabilidade, '
+                'com acabamento em couro costurado à mão e componentes de aço '
+                'inoxidável. Pontos embutidos de parafusos e presilhas '
+                'permitem que o volante seja montado com firmeza em uma mesa '
+                'ou cockpit de corrida, minimizando os movimentos ou vibrações '
+                'em manobras agressivas.',
+ 'img': 'https://images.kabum.com.br/produtos/fotos/69305/volante-logitech-g29-driving-force-ps3-ps4-pc-941-000111_1613658542_g.jpg',
+ 'item_id': '69305',
+ 'new_price': 'R$\xa01.601,91',
+ 'old_price': 1779.9,
+ 'rating_Value': '5',
+ 'title': 'Volante Logitech G29 Driving Force PS3/PS4/PC - 941-000111',
+ 'total_review': '181'}
+
+
+
+
+
+
+
+
+
