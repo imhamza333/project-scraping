@@ -10,15 +10,15 @@ class Kabum_Spider(scrapy.Spider):
         # "-100000065box "
         # "https://kabum.com.br/produto/135291/mem-ria-ram-crucial-ballistix-8gb-ddr4-2666-mhz-cl16-udimm"
         # "-preto-bl8g26c16u4b "
-        # "https://kabum.com.br/produto/114929/tablet-samsung-galaxy-tab-s6-lite-4g-bluetooth-android-10-0-64gb-8mp"
-        # "-tela-de-10-4-cinza-sm-p615nzavzto "
+        "https://kabum.com.br/produto/114929/tablet-samsung-galaxy-tab-s6-lite-4g-bluetooth-android-10-0-64gb-8mp"
+        "-tela-de-10-4-cinza-sm-p615nzavzto "
         # "https://kabum.com.br/produto/162418/lavadora-de-roupas-panasonic-12kg-220v-tit-nio-na-f120b1t"
         # "https://kabum.com.br/produto/94664/projetor-epson-3500-lumens-xga-powerlite-x39"
         # "https://kabum.com.br/produto/168655/jogo-batalha-das-gera-es"
         # "https://kabum.com.br/produto/163656/pneu-175-70r14-michelin-energy-xm2-88t"
         # "https://kabum.com.br/produto/111240/aparador-de-pelos-mondial-super-groom-10-bivolt-bg-03"
         # "https://kabum.com.br/produto/128647/controle-sem-fio-xbox-carbon-black"
-        "https://kabum.com.br/produto/69305/volante-logitech-g29-driving-force-ps3-ps4-pc-941-000111"
+        # "https://kabum.com.br/produto/69305/volante-logitech-g29-driving-force-ps3-ps4-pc-941-000111"
 
     }
 
