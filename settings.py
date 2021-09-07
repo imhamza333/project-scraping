@@ -1,4 +1,3 @@
-# from .utils import get_random_agent
 # Scrapy settings for scraping project
 #
 # For simplicity, this file contains only settings considered important or
@@ -61,9 +60,14 @@ ROBOTSTXT_OBEY = False
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 
+# DOWNLOADER_MIDDLEWARES = {
+#         'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
+#         'scraping.middlewares.CustomProxyMiddleware': 543,
+# }
+CustomProxyMiddleware = True
 DOWNLOADER_MIDDLEWARES = {
-        'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
-        'scraping.middlewares.ScrapingDownloaderMiddleware': 543,
+    'scraping.middlewares.CustomProxyMiddleware': 350,
+    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 400,
 }
 
 # Enable or disable extensions
