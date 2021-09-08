@@ -7,25 +7,16 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-# USER_AGENT = get_random_agent()
-
 BOT_NAME = 'scraping'
 
 SPIDER_MODULES = ['scraping.spiders']
 NEWSPIDER_MODULE = 'scraping.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-# USER_AGENT = 'scraping (+http://www.yourdomain.com)'
+# USER_AGENT = 'newone (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
-
-# HTTPERROR_ALLOWED_CODES = [404]
-# USER_AGENT = 'quotesbot (+http://www.yourdomain.com)'
-# USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36"
-
-
-# PROXY_POOL_ENABLED = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 # CONCURRENT_REQUESTS = 32
@@ -56,18 +47,11 @@ ROBOTSTXT_OBEY = False
 #    'scraping.middlewares.ScrapingSpiderMiddleware': 543,
 # }
 
-
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-
-# DOWNLOADER_MIDDLEWARES = {
-#         'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
-#         'scraping.middlewares.CustomProxyMiddleware': 543,
-# }
-CustomProxyMiddleware = True
 DOWNLOADER_MIDDLEWARES = {
+    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
     'scraping.middlewares.CustomProxyMiddleware': 350,
-    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 400,
 }
 
 # Enable or disable extensions
@@ -79,7 +63,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 # ITEM_PIPELINES = {
-#    'scraping.pipelines.ScrapingPipeline': 300,
+#    'scraping.pipelines.scrapingPipeline': 300,
 # }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -102,3 +86,4 @@ DOWNLOADER_MIDDLEWARES = {
 # HTTPCACHE_DIR = 'httpcache'
 # HTTPCACHE_IGNORE_HTTP_CODES = []
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+# 'scrapy.middlewares.ScrapingDownloaderMiddleware': 543,
