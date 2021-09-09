@@ -101,3 +101,9 @@ class ScrapingDownloaderMiddleware:
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class CustomProxyMiddleware(object):
+    def process_request(self, request, spider):
+        request.meta["proxy"] = "http://188.133.143.135:1256"
+
