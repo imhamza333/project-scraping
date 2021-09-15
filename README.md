@@ -5,7 +5,9 @@ in this project, i am learning about scrapy and understanding the basic concept 
 
 Scrapy is maintained by Zyte (formerly Scrapinghub) and many other contributors.
 
-Check the Scrapy homepage at https://scrapy.org for more information, including a list of features.
+Check the Scrapy 
+
+homepage at https://scrapy.org for more information, including a list of features.
 
 Requirements
 
@@ -16,8 +18,13 @@ Install
 The quick way:
 
 pip install scrapy
-See the install section in the documentation at https://docs.scrapy.org/en/latest/intro/install.html for more details.
+
+See the install section in the documentation at 
+
+https://docs.scrapy.org/en/latest/intro/install.html for more details.
 
 Documentation
 
-Documentation is available online at https://docs.scrapy.org/ and in the docs directory.
+Documentation is available online at 
+
+https://docs.scrapy.org/ and in the docs directory.
